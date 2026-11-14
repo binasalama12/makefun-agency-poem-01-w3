@@ -1,17 +1,18 @@
-"""make.fun entry: an acrostic on AGENCY — six lines whose first
-letters spell the word, each line one clause of the bargain between
-a person and the agent who acts for them.
+"""make.fun entry: an acrostic on AGENCY — but the revocation side
+of it. Six lines whose first letters spell the word, telling the
+night a person took the power back: not because anything broke,
+but because the choosing felt rented out, and hands remember.
 """
 import os
 
 # Insertion order is the poem: A, G, E, N, C, Y.
 LINES = {
-    "A": "Ask me before you act, and I will tell you where the road bends;",
-    "G": "Give me the heavy end of every load I cannot lift alone;",
-    "E": "Every order I write in pencil, so tomorrow can revise it;",
-    "N": "Nothing you carry for me makes the carrying less mine;",
-    "C": "Choose, I say, and the choosing comes back wearing my own voice;",
-    "Y": "Yet at the end of the day, the hand that signs is still this hand.",
+    "A": "At 3 a.m. I woke, and took the keys back off the hook;",
+    "G": "Gone quiet, the agent stood down without a word of protest;",
+    "E": "Everything it had carried for me, set down in a neat row;",
+    "N": "Nothing was broken. That was the worst of it — nothing was broken;",
+    "C": "Care is a country I had been renting out by the month;",
+    "Y": "Yet by morning my hands remembered: the choosing was home again.",
 }
 
 

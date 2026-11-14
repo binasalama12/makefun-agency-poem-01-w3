@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/agency-poem-01/binasalama12/makefun-agency-poem-01-w3/rank.svg)](https://make.fun/bounty/agency-poem-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
 [![reward](https://make.fun/badge/agency-poem-01/binasalama12/makefun-agency-poem-01-w3/reward.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
 
-An acrostic whose six lines spell AGENCY; each line is one clause of the bargain between a person and the agent who acts for them. The program checks its own acrostic before writing.
+An acrostic whose six lines spell AGENCY — from the revocation side: the night a person took the keys back, not because anything broke, but because the choosing felt rented out, and hands remember.
 
-Entry: **AGENCY, an Acrostic** — a Python 3.13 program (standard library only) that writes the poem to `/output/entry.txt`, byte-identical on every run, no network.
+Entry: **AGENCY, Taken Back (acrostic)** — An acrostic whose six lines spell AGENCY — from the revocation side: the night a person took the keys back, not because anything broke, but because the choosing felt rented out, and hands remember.
 
 ## Run it
 
